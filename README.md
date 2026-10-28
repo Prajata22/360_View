@@ -1,3 +1,5 @@
+> **Note:** This repository is based on [hannesa2/panoramaGL](https://github.com/hannesa2/panoramaGL) by its original authors and is kept here for reference. Credit and licence belong to the original project; use the original for the current version.
+
 [![](https://jitpack.io/v/hannesa2/panoramagl.svg)](https://jitpack.io/#hannesa2/panoramagl)
 
 
